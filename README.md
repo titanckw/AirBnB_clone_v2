@@ -47,7 +47,5 @@ EOF  help  quit
 $
 ```
 
-## Authors
-[Miguel Pacheco](https://github.com/Miguel22247)
-[Ezequiel Martinez](https://github.com/ezedksl)
-[Gabriel Prochnau](https://github.com/)
+## Author
+[Clement Kariku] <github; titanckw>
